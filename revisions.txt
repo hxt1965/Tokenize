@@ -1,0 +1,31 @@
+commit d98511d72c288ce0fe2162f3dc20bf287cdaabfb
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Fri Oct 12 23:41:05 2018 -0400
+
+    final commit? program almost working except of a minor bug
+
+commit db1cbc0583bc4ea2a0b5d7f2a5ea9ad4db79bd13
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Fri Oct 12 22:45:42 2018 -0400
+
+    getClass to get class according to ascii value and scantok
+    to read user input created. program almost works
+
+commit 9b662a0f1c12a16608449a5a73496feb0d9511ba
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Thu Oct 11 23:25:15 2018 -0400
+
+    Part 1 finished, printing works fine. allocation using malloc done.
+
+commit f007df35d218309080d851ce8b73a9ad419709f1
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Thu Oct 11 17:41:32 2018 -0400
+
+    Printing functionality added, reading using sscanf() and creating of
+    matrix done
+
+commit f4b96b34f0366e962dd3d6335f1b46ce1f80dfca
+Author: Harsh  Tagotra <hxt1965@cs.rit.edu>
+Date:   Wed Oct 10 07:40:23 2018 -0400
+
+    File opening mechanism and reading using fgets built
